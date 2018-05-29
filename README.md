@@ -1,4 +1,4 @@
-# node-js-getting-started
+# brymlee/example-heroku-node-rest
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
@@ -9,8 +9,8 @@ This application supports the [Getting Started with Node on Heroku](https://devc
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
+$ git clone git@github.com:brymlee/example-heroku-node-rest # or clone your own fork
+$ cd example-heroku-node-rest
 $ npm install
 $ npm start
 ```
